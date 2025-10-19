@@ -1,0 +1,11 @@
+websockets
+django
+channels[daphne]
+Twisted[tls,http2]
+channels_redis 
+django-crispy-forms 
+crispy-bootstrap4 
+opencv-python-headless
+numpy
+scikit-learn
+gymnasium[toy-text]
